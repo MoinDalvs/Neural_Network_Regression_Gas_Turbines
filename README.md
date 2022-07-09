@@ -23,3 +23,4 @@ The explanations of sensor measurements and their brief statistics are given bel
 |Turbine energy yield |(TEY)| MWH |100.02 |179.50 |133.51|
 |Carbon monoxide |(CO)| mg/m3 |0.00 |44.10 |2.37|
 |Nitrogen oxides |(NOx)| mg/m3 |25.90 |119.91 |65.29|
+
